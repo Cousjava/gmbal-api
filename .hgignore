@@ -1,0 +1,7 @@
+syntax:glob
+*.class
+dist/**
+*.sw?
+nbproject/private
+make/bnd.properties
+build.propertoes
